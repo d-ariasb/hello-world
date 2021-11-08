@@ -1,2 +1,5 @@
 # hello-world
-This is a testing repository
+
+Hi there!
+
+Just testing the branch feature in GitHub. No major changes on this branch.
